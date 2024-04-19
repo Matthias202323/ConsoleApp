@@ -24,7 +24,7 @@ namespace ConsoleApp
 
             Console.ReadLine(); // Keep the console open.*/
             
-            Menu menu = new Menu();
+            Menu menu = new Menu(0);
            
 
         }
